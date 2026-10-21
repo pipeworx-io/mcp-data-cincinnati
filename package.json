@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-data-cincinnati",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "DataCincinnati MCP — Cincinnati open data (data.cincinnati-oh.gov, Socrata SODA API).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-90eac719041c3c73d1b0a42573e721e450460c3867934624fb474ef3e2b5133a",
-    "sourceCommit": "56d3c46c09bb3078ffdbdbca992a93f406bcd382"
+    "sourceHash": "v1-05bc0504a4bd6c645a4887e9dacc8a3b4001c9abbcf3b0b35ea8c10ee2de4716",
+    "sourceCommit": "8355bf3d1eece256a62a89dba2278e7a77bebe07"
   }
 }
